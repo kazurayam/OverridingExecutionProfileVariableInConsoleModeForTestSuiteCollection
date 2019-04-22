@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1,,,,2019-04-22 17:58:10,2019-04-22 17:58:11,1.059s,PASSED
+,,,,,,,
+Test Cases/TC1,,,,2019-04-22 17:58:10,2019-04-22 17:58:11,0.690s,PASSED
+println(GlobalVariable.URL=$GlobalVariable.URL),,,,2019-04-22 17:58:10,2019-04-22 17:58:11,0.149s,PASSED
+comment(GlobalVariable.URL=$GlobalVariable.URL),,,,2019-04-22 17:58:11,2019-04-22 17:58:11,0.157s,PASSED
