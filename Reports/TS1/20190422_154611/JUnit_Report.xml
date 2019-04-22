@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS1" time="0" tests="1" failures="0" errors="0">
+   <testsuite name="TS1" tests="1" failures="0" errors="0" time="0" timestamp="2019-04-22 15:46:13" hostname="qcq0264 - N19-D267.quick.local" id="Test Suites/TS1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\qcq0264\\katalon-workspace\\OverridingGlobalVariableForTestSuiteCollectionInConsoleMode\\Reports\\TS1\\20190422_154611"/>
+         <property name="logFiles" value="C:\\Users\\qcq0264\\katalon-workspace\\OverridingGlobalVariableForTestSuiteCollectionInConsoleMode\\Reports\\TS1\\20190422_154611\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="qcq0264 - N19-D267.quick.local"/>
+         <property name="hostAddress" value="172.19.71.132"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.1"/>
+      </properties>
+      <testcase name="Test Cases/TC1" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[2019-04-22 15:46:14 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+2019-04-22 15:46:14 - [TEST_STEP][PASSED] - println(GlobalVariable.URL=$GlobalVariable.URL): null
+
+2019-04-22 15:46:14 - [TEST_STEP][PASSED] - comment(GlobalVariable.URL=$GlobalVariable.URL): GlobalVariable.URL=https://www.amazon.com/
+
+2019-04-22 15:46:14 - [MESSAGE][INFO] - GlobalVariable.URL=https://www.amazon.com/]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-22 15:46:13 - [TEST_SUITE][PASSED] - TS1: Test Cases/TC1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
